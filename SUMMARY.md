@@ -4,7 +4,7 @@
   * [Intro](master/intro/README.md)
     * [Where to use](master/intro/where-to-use.md)
   * [Liquidity Provider](master/liquidity-provider.md)
-  * [Token plan](master/token-plan.md)
+  * [Token plan](master/token-plan.md)
 * [Advantages](advantages/README.md)
   * [Oracle Guard](advantages/oracle-guard.md)
 * [Risks](risks.md)
