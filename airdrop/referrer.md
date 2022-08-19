@@ -10,7 +10,7 @@ PlusFi 생태계의 확대를 위해서 추천인 시스템을 제공합니다.
 
 추천인으로 들어온 사용자가 예치를 했을 경우 예치 보상금 일부를 추천인에게 추가 보상으로 제공합니다.
 
-![](../ko/.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 ### 사용방법
 

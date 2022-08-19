@@ -4,7 +4,7 @@ PlusFi의 가치를 높여줄 재미있는 게임을 즐겨 보세요!
 
 ### **AERGO random contract**
 
-![확률 게임](../.gitbook/assets/Game.png)
+![확률 게임](<../.gitbook/assets/자산 9.png>)
 
 50%, 30%, 10%, 5%, 1%의 확률 게임
 
