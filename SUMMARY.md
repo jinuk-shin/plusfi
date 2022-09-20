@@ -15,12 +15,11 @@
 * [Staking](product/staking.md)
 * [Swap](product/swap/README.md)
   * [Protocol](product/swap/protocol.md)
-* [IDO](product/ido.md)
+* [Bridge](product/bridge.md)
 
 ## SERVICES
 
-* [Bridge](services/bridge.md)
-* [Game](services/game.md)
+* [IDO](services/ido.md)
 * [Community Vote](services/community-vote.md)
 
 ## Airdrop
